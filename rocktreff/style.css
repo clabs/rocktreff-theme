@@ -1,0 +1,17 @@
+/*
+Theme Name: ROCKTREFF
+Theme URI: http://www.rocktreff.de/
+Description: Amazing!
+Author: Rob
+Author URI: http://rob.clabs.cc/
+Version: 1.0
+Tags: black, fixed-width, custom-background
+
+License: MIT
+License URI:
+
+BAZINGA!
+*/
+@import "css/reset.css";
+@import "css/grid.css";
+@import 'css/index.css';
