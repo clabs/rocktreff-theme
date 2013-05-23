@@ -92,11 +92,13 @@ ul.presenter_top .cc a {
 	background-image: url('/wp-content/gallery/sponsoren/catering_company.png');
 }
 ul.presenter_top .starfm a {
-	background-size: 116% auto;
-	height: 72px;
-	width: 172px;
-	background-position: -15px 0;
-	background-image: url('/wp-content/gallery/sponsoren/star_fm.png');
+	background-size: 100% auto;
+	height: 63px;
+	width: 176px;
+	background-position: 0px 0;
+	background-position-x: 0px;
+	background-position-y: 0px;
+	background-image: url('/wp-content/gallery/sponsoren/sf_berlin_rgb_transparent.png');
 }
 ul.presenter_top .psd a {
 	width: 117px;
