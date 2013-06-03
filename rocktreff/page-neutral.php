@@ -6,7 +6,7 @@ get_header(); ?>
 <?php get_header(); ?>
 <article id="main" class="row-fluid">
 	<section style="display: none"></section>
-	<section class="span12">
+	<section>
 		<?php the_content(); ?>
 	</section>
 </article>
